@@ -1,16 +1,17 @@
 # prkvw.github.io
 
 
-# Hello There 
-
-Hi 👋  my name is Subomi Busari
-I build things for the web
+# Hello There 👋
 Welcome to sB's portfolio website !
 
-# Highlights
-  - ABSA / MEST Blockchain in Banking workshop
+My name is Subomi Busari
+I build things for the web.
+
+
+# Learning Highlights
+  - ABSA / MEST Blockchain in Banking workshop - 
   - MEST Web3.0 Skills Bootcamp
-  - Udacity Technical Product Management; Design Sprint, Product Requirements Document, Interactive Prototype, Product Pitch.
+  - Udacity Technical Product Management; Design Sprint plan, Product Requirements Document, Product Pitch, Product Development, Interactive Prototype.
 
 
 Here are a few languages and libraries I've been working with recently;
