@@ -25,7 +25,7 @@ Here are languages and libraries I have been working with;
 - TicTacToe
 - eShop user authenticator
 - RESTful API
-- Polygon Dapp
+- Polygon donation Dapp
 - ETH BlockExplorer
 
 
