@@ -17,13 +17,12 @@ Here are languages and libraries I have been working with;
  -  Javascript
  -  Node.js
  -  Angular.Js
- -  React.Js
  -  Solidity
  
    
 # Projects
 - TicTacToe
-- eShop user authenticator
+- eShop
 - RESTful API
 - Polygon donation Dapp
 - ETH BlockExplorer
