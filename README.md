@@ -6,7 +6,7 @@ My name is Subomi Busari, and I build things for the web.
 
 
 # Learning Highlights
-  - ABSA / MEST Blockchain in Banking workshop - 
+  - ABSA / MEST Blockchain in Banking workshop 
   - MEST Web3.0 Skills Bootcamp
   - Udacity Technical Product Management nanodegree; Design Sprint plan, Product Requirements Document, Product Pitch, Product Development, Interactive Prototype.
 
@@ -21,11 +21,12 @@ Here are languages and libraries I have been working with;
  
    
 # Projects
-- TicTacToe
-- eShop
-- RESTful API
-- Polygon donation Dapp
-- ETH BlockExplorer
+- Created code base to render an interactive multiplayer game of TicTacToe.
+- Designed an eCommerce site with product list, cart, checkout and price change alerts.
+- Created a RESTful API for eCommerce site.
+- Designed user interface and smart contract, deployed on polygon Mumbai network for Loan dApp.
+- Designed user interface and reviewed smart contract code base for Ethereum blockchain scanner.
+
 
 
 
