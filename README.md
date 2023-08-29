@@ -24,7 +24,7 @@ Here are languages and libraries I have been working with;
 - Created code base to render an interactive multiplayer game of TicTacToe.
 - Designed an eCommerce site with product list, cart, checkout and price change alerts.
 - Created a RESTful API for eCommerce site.
-- Created sprint plan, created product requirements document, pitched product proposal, managed product development, and designed Interactive Prototype.
+- Created sprint plan, product requirements document, pitched product proposal, managed product development, and designed Interactive Prototype.
 - Designed user interface and smart contract, deployed on polygon Mumbai network for Loan dApp.
 - Designed user interface and reviewed smart contract code base for Ethereum blockchain scanner.
 
