@@ -15,8 +15,8 @@ Here are languages and libraries I have been working with;
 
  -  Python; Django
  -  Javascript
- -  Node.js
  -  Angular.Js
+ -  Node.js
  -  Solidity
  
    
