@@ -7,7 +7,7 @@ My name is Subomi Busari, and I build things for the web.
 
 # Learning Highlights
   - ABSA / MEST Blockchain in Banking workshop 
-  - MEST Web3.0 Skills Bootcamp
+  - Mowblox/ MEST Web3.0 Skills Bootcamp
   - Udacity Technical Product Management nanodegree; Design Sprint plan, Product Requirements Document, Product Pitch, Product Development, Interactive Prototype.
 
 
