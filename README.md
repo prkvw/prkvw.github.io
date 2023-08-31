@@ -11,7 +11,7 @@ My name is Subomi Busari, and I build things for the web.
   - Udacity Technical Product Management nanodegree; Design Sprint plan, Product Requirements Document, Product Pitch, Product Development, Interactive Prototype.
 
 
-Here are languages and libraries I have been working with;
+Here are languages and frameworks I have been working with;
 
  -  Python; Django
  -  Javascript
@@ -25,8 +25,8 @@ Here are languages and libraries I have been working with;
 - Designed an eCommerce site with product list, cart, checkout and price change alerts.
 - Created a RESTful API for eCommerce site.
 - Created sprint plan, product requirements document, pitched product proposal, managed product development, and designed Interactive Prototype.
-- Designed user interface and smart contract, deployed on polygon Mumbai network for Loan dApp.
-- Designed user interface and reviewed smart contract code base for Ethereum blockchain scanner.
+- Designed user interface, wrote smart contract, test and deploy scripts for Loan Collection dApp. Deployed on polygon Mumbai network.
+- Designed user interface, and reviewed smart contract code base for Ethereum blockchain scanner.
 
 
 
