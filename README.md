@@ -16,13 +16,14 @@ Here are languages and frameworks I have been working with;
  -  Python; Django
  -  Javascript
  -  Angular.Js
+ -  React.Js
  -  Node.js
  -  Solidity
  
    
 # Projects
 - Created code base to render an interactive multiplayer game of TicTacToe.
-- Designed an eCommerce site with product list, cart, checkout and price change alerts.
+- Designed an eCommerce site with product list, cart, checkout, and price change alerts.
 - Created a RESTful API for eCommerce site.
 - Created sprint plan, product requirements document, pitched product proposal, managed product development, and designed Interactive Prototype.
 - Designed user interface, wrote smart contract, test and deploy scripts for Loan Collection dApp. Deployed on polygon Mumbai network.
