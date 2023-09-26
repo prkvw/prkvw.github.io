@@ -2,12 +2,12 @@
 # Hello There 👋
 Welcome to sB's portfolio website !
 
-My name is Subomi Busari, and I use technology to solve for access and create outsized oppurtunity.
+I'm an engineer, using technology to solve for access and create outsized oppurtunity.
 
 
 # Learning Highlights
   - ABSA / MEST Africa Blockchain in Banking workshop 
-  -Mastercard Foundation/MEST /Mowblox Web3.0 Skills Bootcamp
+  - Mastercard Foundation/MEST Africa/ Mowblox Web3.0 Skills Bootcamp
   - Udacity Technical Product Management nanodegree; Design Sprint plan, Product Requirements Document, Product Pitch, Product Development, Interactive Prototype.
 
 
