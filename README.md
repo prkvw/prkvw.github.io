@@ -14,9 +14,11 @@ I'm an engineer, using technology to solve for access and create outsized oppurt
 Here are languages, libraries, and frameworks I have been working with;
 
  -  Javascript
+ -  Typescript
  -  Angular.Js
  -  React.Js
  -  Node.js
+ -  GraphSQL
  -  Solidity
  
    
