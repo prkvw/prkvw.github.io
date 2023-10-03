@@ -23,7 +23,7 @@ Here are languages, libraries, and frameworks I have been working with;
  
    
 # Projects
-- Created a RESTful API for eCommerce site.
+- Created a RESTful API for an eCommerce site.
 - Built an eCommerce site with product list, cart, checkout, and price change alerts.
 - Wrote smart contracts, unit tests, and scripts for rendering NFT Tiles in a digital marketplace; the A List.React web app.Deployed on polygon main net.
 - Contributed to crowd-sourced app UX testing and website security bug bounties.
