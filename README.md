@@ -22,15 +22,14 @@ Here are languages, libraries, and frameworks I have been working with;
  -  Solidity
  
    
-# Projects
-- Created a RESTful API for an eCommerce site.
-- Built an eCommerce site with product list, cart, checkout, and price change alerts.
+# Project Highlights
+ 
 - Wrote smart contracts, unit tests, and scripts for rendering NFT Tiles in a digital marketplace; the A List.React web app.Deployed on polygon main net.
 - Contributed to crowd-sourced app UX testing and website security bug bounties.
 - Designed user interface, wrote smart contract, and test scripts for Loan Collection dApp. Deployed on polygon Mumbai network.
-- Contributed in a group hackathon project at ETHAccra, presenting the demo of a non-custodial mobile wallet.
+- Contributed in a group hackathon project at ETHAccra,  a non-custodial mobile wallet.
 - Built a marketplace dapp with product list, sales cart, options to list assets for sale, indexed collections and transferrable asset ownership authorisation.
-- Designed user interface, and reviewed smart contract code base, ,and page components for an  Ethereum blockchain scanner.
+  
 
 
 
