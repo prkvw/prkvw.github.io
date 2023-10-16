@@ -8,18 +8,16 @@ I'm an engineer, using technology to solve for access and create outsized opport
 # Learning Highlights
   - ABSA / MEST Africa Blockchain in Banking workshop 
   - Mastercard Foundation/MEST Africa/ Mowblox Web3.0 Skills Bootcamp
-  - Udacity Technical Product Management nanodegree; Design Sprint plan, Product Requirements Document, Product Pitch, Product Development, Interactive Prototype.
+  - Microsoft AZ-400 DevOps  ( - 11/11)
 
 
 Here are languages, libraries, and frameworks I have been working with;
 
- -  Javascript
  -  Typescript
- -  Angular.Js
- -  React.Js
+ -  React.js, Next.js, Angular.Js
  -  Node.js
  -  GraphSQL
- -  Solidity
+ -  Solidity, Truffle, Viem.
  
    
 # Project Highlights
