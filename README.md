@@ -6,9 +6,8 @@ I'm an engineer, using technology to solve for access and create outsized opport
 
 
 # Learning Highlights
-  - ABSA / MEST Africa Blockchain in Banking workshop 
   - Mastercard Foundation/MEST Africa/ Mowblox Web3.0 Skills Bootcamp
-  - Microsoft AZ-400 DevOps  ( - 11/11)
+  - Microsoft AZ-400 DevOps  ( in View 11/23)
 
 
 Here are languages, libraries, and frameworks I have been working with;
@@ -17,16 +16,15 @@ Here are languages, libraries, and frameworks I have been working with;
  -  React.js, Next.js, Angular.Js
  -  Node.js
  -  GraphQL
- -  Solidity, Truffle, Viem.
+ -  Solidity, Hardhat, Truffle, Viem.
  
    
 # Project Highlights
  
 - Wrote smart contracts, unit tests, and scripts for rendering NFT Tiles in a digital marketplace; the A List.React web app.Deployed on polygon main net.
-- Contributed to crowd-sourced app UX testing and website security bug bounties.
-- Designed user interface, wrote smart contract, and test scripts for Loan Collection dApp. Deployed on polygon Mumbai network.
-- Contributed in a group hackathon project at ETHAccra,  a non-custodial mobile wallet.
-- Built a marketplace dapp with product list, sales cart, options to list assets for sale, indexed collections and transferrable asset ownership authorisation.
+- Mocked-up user interface, wrote smart contract, and test scripts for Tontine B2B AutoCollections Dapp at ABSA Hackathon October 2023 Live project.
+- Contributed in a group hackathon Swaptel project at ETHAccra,  a non-custodial mobile wallet.
+- Built a Business Dashboard Project.
   
 
 
