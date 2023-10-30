@@ -20,11 +20,12 @@ Here are languages, libraries, and frameworks I have been working with;
  
    
 # Project Highlights
- 
-- Wrote smart contracts, unit tests, and scripts for rendering NFT Tiles in a digital marketplace; the A List.React web app.Deployed on polygon main net.
-- Mocked-up user interface, wrote smart contract, and test scripts for Tontine B2B AutoCollections Dapp at ABSA Hackathon October 2023 Live project.
-- Contributed in a group hackathon Swaptel project at ETHAccra,  a non-custodial mobile wallet.
-- Built a Business Dashboard Project.
+
+ - Built a Business Dashboard MVP, with sales and distributed inventory tracking features.
+- Wrote smart contracts, unit tests, and scripts for digital marketplace; the A List.React web app.Live on polygon main net.
+- Mocked-up user interface, wrote smart contract, and test scripts for Tontine B2B Contribution Dapp MVP at ABSA Hackathon October 2023.
+- Contributed in group project Dapp Swaptel at ETHAccra Hackathon,  a non-custodial mobile wallet.
+
   
 
 
