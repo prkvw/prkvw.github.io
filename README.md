@@ -2,7 +2,7 @@
 # Hello There 👋
 Welcome to sB's portfolio website !
 
-I'm an engineer, using technology to solve for access and create outsized opportunity.
+I'm an engineer, using technology to solve for access, and create outsized opportunity.
 
 
 # Learning Highlights
