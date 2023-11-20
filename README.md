@@ -15,7 +15,6 @@ Here are languages, libraries, and frameworks I have been working with;
  -  Typescript
  -  React.js, Next.js, Angular.Js
  -  Node.js
- -  GraphQL
  -  Solidity, Hardhat, Truffle, Viem.
  
    
