@@ -6,8 +6,7 @@ I'm an engineer, using technology to solve for access, and create outsized oppor
 
 
 # Learning Highlights
-  - Mastercard Foundation/MEST Africa/ Mowblox Web3.0 Skills Bootcamp
-  - Microsoft AZ-400 DevOps  ( in View 11/23)
+  - Mastercard Foundation/MEST Africa/ Mowblox Web3.0 Bootcamp
 
 
 Here are languages, libraries, and frameworks I have been working with;
