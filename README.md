@@ -14,11 +14,12 @@ Here are languages, libraries, and frameworks I have been working with;
  -  Typescript
  -  React.js, Next.js, Angular.Js
  -  Node.js
- -  Solidity, Hardhat, Truffle, Viem.
+ -  Solidity, Rust, Hardhat, Truffle, Viem.
  
    
 # Project Highlights
 
+ - Adapted a bot for specific contract interaction on solana EVM. 
  - Built a Business Dashboard MVP, with sales and distributed inventory tracking features.
 - Wrote smart contracts, unit tests, and scripts for digital marketplace; the A List.React web app.Live on polygon main net.
 - Mocked-up user interface, wrote smart contract, and test scripts for Tontine B2B Contribution Dapp MVP at ABSA Hackathon October 2023.
