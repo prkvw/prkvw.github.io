@@ -2,7 +2,6 @@
 # Hello There 👋
 Welcome to sB's portfolio website !
 
-A-List; https://a-list-4k4bs0nh1-prkvw.vercel.app/
 
 I'm an engineer, using technology to solve for access, and create outsized opportunity.
 
