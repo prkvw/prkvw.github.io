@@ -19,7 +19,7 @@ Here are languages, libraries, and frameworks I have been working with;
  
    
 # Project Highlights
-👨‍💻 Projects sample 
+👨‍💻 [A List NFT Marketplace ](https://a-list-4k4bs0nh1-prkvw.vercel.app/) 
 
  - Adapted a bot for contract interaction on solana EVM. 
  - Built a Business Dashboard MVP, with sales and distributed inventory tracking features.
