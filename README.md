@@ -1,6 +1,6 @@
 
 # Hello There 👋
-Welcome to sB's portfolio website !
+Welcome to sB's project sheet !
 
 
 I contribute to the data indexing layer for the interwebs 🤓.
