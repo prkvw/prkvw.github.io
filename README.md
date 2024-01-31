@@ -21,13 +21,14 @@ Here are languages, libraries, and frameworks I have been working with;
    
 # Project Highlights
 
--  anft Subgraph
+
 👨‍💻 [A List NFT Marketplace ](https://a-list-4k4bs0nh1-prkvw.vercel.app/) 
 -  A List digital marketplace. React web app live on polygon main net
-
-
+  
+-  anft Subgraph.
+  
 - Built a Business Dashboard MVP, with sales and distributed inventory tracking features.
-- Mocked-up user interface, wrote smart contract, and test scripts for Tontine B2B Contribution Dapp MVP at ABSA Hackathon October 2023.
+  
 - Contributed in group project Dapp Swaptel at ETHAccra Hackathon,  a non-custodial mobile-money token wallet.
 
   
