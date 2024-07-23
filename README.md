@@ -13,7 +13,7 @@ I contribute to the data indexing layer for the interwebs 🤓.
 
 Here are languages, libraries, and frameworks I have been working with;
 
- -  Typescript
+ -  RUST
  -  React.js, Angular.js
  -  Node.js
  -  Solidity, Hardhat, GraphQL.
@@ -23,13 +23,13 @@ Here are languages, libraries, and frameworks I have been working with;
 
 
 👨‍💻 [A List NFT Marketplace ](https://a-list-4k4bs0nh1-prkvw.vercel.app/) 
--  A List digital marketplace. React web app live on polygon main net
+-  A List digital marketplace. React web app deployed on polygon main net.
   
--  anft Subgraph.
+-  Created a Subgraph tracking events from an nft smart contract.
   
 - Built a Business Dashboard MVP, with sales and distributed inventory tracking features.
   
-- Contributed in group project Dapp Swaptel at ETHAccra Hackathon,  a non-custodial mobile-money token wallet.
+- Contributed in Swaptel at ETHAccra Hackathon,  a non-custodial mobile-money token wallet.
 
   
 
