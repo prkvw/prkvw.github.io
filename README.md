@@ -8,7 +8,8 @@ I contribute to the data indexing layer for the interwebs 🤓.
 
 # Learning Highlights
   - Mastercard Foundation/MEST Africa/ Mowblox Web3.0 skills Bootcamp
-  - Microsoft Azure DevOps Path
+  - UDACITY Product Management Nanodegree
+  - Microsoft Azure AZ -400
 
 
 Here are languages, libraries, and frameworks I have been working with;
