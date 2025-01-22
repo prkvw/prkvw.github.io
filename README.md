@@ -8,7 +8,7 @@ I contribute to the data indexing layer for the interwebs 🤓.
 
 # Learning Highlights
   - Mastercard Foundation/MEST Africa/ Mowblox Web3.0 skills Bootcamp
-  - UDACITY Product Management Nanodegree
+  - Udacity Product Management Nanodegree
   - Microsoft Azure AZ -400
 
 
