@@ -1,6 +1,6 @@
 
 # Hello There 👋
-Welcome to sB's project sheet !
+Welcome to sB's project Map !
 
 
 I contribute to the data indexing layer for the interwebs 🤓.
@@ -8,12 +8,11 @@ I contribute to the data indexing layer for the interwebs 🤓.
 
 # Learning Highlights
   - Mastercard Foundation/MEST Africa/ Mowblox Web3.0 skills Bootcamp
-  - The Graph Academy - Subgraph Developer Course
+  - Microsoft Azure DevOps Path
 
 
 Here are languages, libraries, and frameworks I have been working with;
 
- -  RUST
  -  React.js, Angular.js
  -  Node.js
  -  Solidity, Hardhat, GraphQL.
@@ -29,7 +28,7 @@ Here are languages, libraries, and frameworks I have been working with;
   
 - Built a Business Dashboard MVP, with sales and distributed inventory tracking features.
   
-- Contributed in Swaptel at ETHAccra Hackathon,  a non-custodial mobile-money token wallet.
+- Project Swaptel, a non-custodial mobile-money token wallet at ETHAccra Hackathon .
 
   
 
