@@ -3,7 +3,7 @@
 Welcome to sB's project Map !
 
 
-I contribute to the data indexing layer for the interwebs 🤓.
+I contribute to the data indexing layer of the interwebs 🤓.
 
 
 # Learning Highlights
