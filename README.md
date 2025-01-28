@@ -8,7 +8,9 @@ I contribute to the data indexing layer of the interwebs 🤓
 
 # Learning Highlights
   - Mastercard Foundation/MEST Africa/ Mowblox Web3.0 Bootcamp
-  - Microsoft Azure AZ 400, 104 
+  - Linux Server Administration, Troubleshooting, CLI
+  - Networking fundamentals
+  - Microsoft Azure DevOps - AZ 400, 104 Courses 
 
 
 Here are languages, libraries, and frameworks I have been working with;
