@@ -19,12 +19,13 @@ Here are languages, libraries, and frameworks I have been working with;
  -  Node.js
  -  Solidity, Hardhat, GraphQL.
  
-   
+   `[Blog]  (https://medium.com/@1sB/list/web-5deacf9ad9da) `
 # Project Highlights
 
 
-👨‍💻 [A List NFT Marketplace ](https://a-list-4k4bs0nh1-prkvw.vercel.app/) 
--  A List digital marketplace. React web app deployed on polygon main net.
+👨‍💻 `[A List NFT Marketplace] (https://a-list-4k4bs0nh1-prkvw.vercel.app/)`
+   
+   React web app deployed on polygon main net.
   
 -  Created a Subgraph tracking events from an nft smart contract.
   
