@@ -8,7 +8,7 @@ I contribute to the data indexing layer of the interwebs 🤓
 
 # Learning Highlights
   - Mastercard Foundation/MEST Africa/ Mowblox Web3.0 Bootcamp
-  - Linux Server Administration, Troubleshooting, CLI
+  - Linux Server Administration,CLI, Troubleshooting
   - Networking fundamentals
   - Microsoft Azure DevOps - AZ 400, AZ 104 Courses
   - Project Management ; Azure Boards , Atlassian Suite ( JIRA, Clickup )
