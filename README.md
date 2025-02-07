@@ -32,7 +32,7 @@ Here are some of my favourite tools and frameworks;
   
 - Built a Business Dashboard MVP, with sales and distributed inventory tracking features.
   
-- Swaptel a speedrun ETH project; non-custodial mobile-money token wallet  @ETHAccra Hackathon.
+- Swaptel Speedrun ETH project; non-custodial mobile-money token wallet  @ETHAccra Hackathon.
 
   
 
