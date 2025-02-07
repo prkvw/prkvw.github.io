@@ -8,16 +8,16 @@ I contribute to the data indexing layer of the interwebs 🤓
 
 # Learning Highlights
   - Mastercard Foundation/MEST Africa/ Mowblox Web3.0 Bootcamp
-  - Linux Server Administration,CLI, Troubleshooting
+  - Linux CLi ; Server Administration, Troubleshooting
   - Networking fundamentals
   - Microsoft Azure DevOps - AZ 400, AZ 104 Courses
   - Project Management ; Azure Boards , Atlassian Suite ( JIRA, Clickup )
 
 
-Here are languages, libraries, and frameworks I have been working with;
+Here are some of my favourite tools and frameworks;
 
- -  React.js, Angular.js
- -  Node.js
+ -  React.js , Node.js , MySQL
+ -  Docker
  -  Solidity, Hardhat, GraphQL.
  
    `[Blog]  (https://dev.to/prkvw) `
@@ -32,7 +32,7 @@ Here are languages, libraries, and frameworks I have been working with;
   
 - Built a Business Dashboard MVP, with sales and distributed inventory tracking features.
   
-- Project Swaptel, a non-custodial mobile-money token wallet at ETHAccra Hackathon .
+- Swaptel a speedrun ETH project; non-custodial mobile-money token wallet  @ETHAccra Hackathon.
 
   
 
