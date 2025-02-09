@@ -17,7 +17,7 @@ I contribute to the data indexing layer of the interwebs 🤓
 Here are some of my favourite tools and frameworks;
 
  -  React.js , Node.js , MySQL
- -  Docker
+ -  Docker , AWS EC2
  -  Solidity, Hardhat, GraphQL.
  
    `[Blog]  (https://dev.to/prkvw) `
