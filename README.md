@@ -3,22 +3,23 @@
 Welcome to sB's project Map !
 
 
-I contribute to the data indexing layer of the interwebs 🤓
+I build on the interwebs 🤓
 
 
 # Learning Highlights
-  - Mastercard Foundation/MEST Africa/ Mowblox Web3.0 Bootcamp
+  - CI / CD ; GitHub Actions , 
   - Linux CLi ; Server Administration, Troubleshooting
-  - Networking fundamentals
+  - Springboot
+  - Cloud Services ; AWS ; EC2, IAM, S3.
+  - Containers ; Docker , Kubernetes
   - Microsoft Azure DevOps - AZ 400, AZ 104 Courses
-  - Project Management ; Azure Boards , Atlassian Suite ( JIRA, Clickup )
+  - Project Management ; Azure Boards , Atlassian Suite ( JIRA, Clickup ), Asana Workflows & Boards
 
 
 Here are some of my favourite tools and frameworks;
 
  -  React.js , Node.js , MySQL ,  Mongo DB
- -  Docker , AWS EC2
- -  Solidity, Hardhat, GraphQL.
+ -  Solidity,  GraphQL.
  
    `[Blog]  (https://dev.to/prkvw) `
 # Project Highlights
@@ -32,7 +33,7 @@ Here are some of my favourite tools and frameworks;
   
 - Built a Business Dashboard MVP, with sales and distributed inventory tracking features.
   
-- Swaptel Speedrun ETH project; non-custodial mobile-money token wallet  @ETHAccra Hackathon.
+- Swaptel Speedrun ETH project; non-custodial mobile token wallet  @ETHAccra Hackathon.
 
   
 
